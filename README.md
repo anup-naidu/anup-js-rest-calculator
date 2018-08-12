@@ -4,7 +4,7 @@ Implementation of a Mathematical Calculator Application in JavaScript using AJAX
 ----------------------------------------------------------------------------------------------------------
 Instructions to execute:
 
-1- Pls. copy the attached zip file on your hard drive and unzip it using the default windows zip tool or 7zip tool Or clone it from GitHub from location 'https://github.com/anup-naidu/anup-js-rest-calculator' using the command 'git clone https://github.com/anup-naidu/anup-js-rest-calculator from a shell based console or a text editor like 'MS Visual Studio Code', which has been used to develop the same. 
+1- Pls. copy the attached zip file on your hard drive and unzip it using the default windows zip tool or 7zip tool Or clone it from GitHub from location 'https://github.com/anup-naidu/anup-js-rest-calculator' using the command 'git clone https://github.com/anup-naidu/anup-js-rest-calculator' from a shell based console or a text editor like 'MS Visual Studio Code', which has been used to develop the same. 
 
 2- Open the 'index.html' located inside the root folder i.e. '\anup-js-rest-calculator' using any Broswer, preferably 'Google Chrome' as it is the broswer that has been used while developing and test testing the same.
 
