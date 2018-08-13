@@ -18,6 +18,6 @@ Tools/Softwares used to develop the app.:
 
 1- Code Editore (IDE) - 
     MS Visual Studio Code Version 1.25.1 [https://code.visualstudio.com/]
-2- Broswers for testing - 
+2- Browsers for testing - 
     a) Google Chrome Version 68.0.3440.106 (Official Build) (64-bit) [https://www.google.com/chrome/]
     b) Microsoft Edge 42.17134.1.0 [https://www.microsoft.com/en-au/windows/microsoft-edge]
